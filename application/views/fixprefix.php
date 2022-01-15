@@ -1,5 +1,5 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 include '_header.php';
 ?>
 <section class="content-header" id="filterHead">
@@ -16,16 +16,18 @@ include '_header.php';
 					</div>
 				</div>
 				<div class="col-md-8">
-					<form autocomplete="off" enctype="multipart/form-data" action="" name="frmEexam" id="frmEexam" method="post">
+					<form autocomplete="off" enctype="multipart/form-data" action="" name="frmEexam" id="frmEexam"
+						method="post">
 						<div class="form-group">
-						<label for="txtBatch">Import CSV File to fix candiate ID Prefix</label><br>
-						<div class="btn btn-md btn-danger" onclick="$('#urlM').click()">Upload File</div>
-			<input type="file" style="display: none;"  onchange="fileUploadBinary('prefix','frmEexam')" name="urlM" id="urlM" class="form-control">
-			<input type="hidden" name="txtexammarks" id="txtexammarks">
-			<input type="hidden" name="txtprefix" id="txtprefix">
+							<label for="txtBatch">Import CSV File to fix candiate ID Prefix</label><br>
+							<div class="btn btn-md btn-danger" onclick="$('#urlM').click()">Upload File</div>
+							<input type="file" style="display: none;" onchange="fileUploadBinary('prefix','frmEexam')"
+								name="urlM" id="urlM" class="form-control">
+							<input type="hidden" name="txtexammarks" id="txtexammarks">
+							<input type="hidden" name="txtprefix" id="txtprefix">
 
-		</div>
-	</form>
+						</div>
+					</form>
 
 				</div>
 				<div class="col-md-6">
@@ -36,14 +38,14 @@ include '_header.php';
 		</div>
 	</div>
 
-		<div class="box box-success" style="background-color: #96eba6;">
-			<div id="boxResult" class="box-body w3-allerta">
+	<div class="box box-success" style="background-color: #96eba6;">
+		<div id="boxResult" class="box-body w3-allerta">
 
-			</div>
-			<!-- /.box-body -->
 		</div>
-	</section>
-	<?php include '_footer.php'; ?>
-	<script>
+		<!-- /.box-body -->
+	</div>
+</section>
+<?php include '_footer.php'; ?>
+<script>
 
-	</script>
+</script>
