@@ -1,0 +1,3 @@
+select * from member where old_id like "%36932%"
+
+exams

@@ -1,0 +1,178 @@
+INFO - 2021-06-23 12:51:03 --> Config Class Initialized
+INFO - 2021-06-23 12:51:03 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:03 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:03 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:03 --> URI Class Initialized
+INFO - 2021-06-23 12:51:03 --> Router Class Initialized
+INFO - 2021-06-23 12:51:03 --> Output Class Initialized
+INFO - 2021-06-23 12:51:03 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:03 --> Input Class Initialized
+INFO - 2021-06-23 12:51:03 --> Language Class Initialized
+INFO - 2021-06-23 12:51:03 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:03 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:03 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:03 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:03 --> Helper loaded: url_helper
+INFO - 2021-06-23 12:51:03 --> File loaded: /var/www/html/light1/application/views/edit_donor.php
+INFO - 2021-06-23 12:51:03 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:03 --> Total execution time: 0.1239
+INFO - 2021-06-23 12:51:06 --> Config Class Initialized
+INFO - 2021-06-23 12:51:06 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:06 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:06 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:06 --> URI Class Initialized
+INFO - 2021-06-23 12:51:06 --> Router Class Initialized
+INFO - 2021-06-23 12:51:06 --> Output Class Initialized
+INFO - 2021-06-23 12:51:06 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:06 --> Input Class Initialized
+INFO - 2021-06-23 12:51:06 --> Language Class Initialized
+INFO - 2021-06-23 12:51:06 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:06 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:06 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:06 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:06 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:06 --> Total execution time: 0.0276
+INFO - 2021-06-23 12:51:07 --> Config Class Initialized
+INFO - 2021-06-23 12:51:07 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:07 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:07 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:07 --> URI Class Initialized
+INFO - 2021-06-23 12:51:07 --> Router Class Initialized
+INFO - 2021-06-23 12:51:07 --> Output Class Initialized
+INFO - 2021-06-23 12:51:07 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:07 --> Input Class Initialized
+INFO - 2021-06-23 12:51:07 --> Language Class Initialized
+INFO - 2021-06-23 12:51:07 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:07 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:07 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:07 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:07 --> Helper loaded: url_helper
+INFO - 2021-06-23 12:51:07 --> File loaded: /var/www/html/light1/application/views/edit_donor.php
+INFO - 2021-06-23 12:51:07 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:07 --> Total execution time: 0.0112
+INFO - 2021-06-23 12:51:09 --> Config Class Initialized
+INFO - 2021-06-23 12:51:09 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:09 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:09 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:09 --> URI Class Initialized
+INFO - 2021-06-23 12:51:09 --> Router Class Initialized
+INFO - 2021-06-23 12:51:09 --> Output Class Initialized
+INFO - 2021-06-23 12:51:09 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:09 --> Input Class Initialized
+INFO - 2021-06-23 12:51:09 --> Language Class Initialized
+INFO - 2021-06-23 12:51:09 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:09 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:09 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:09 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:09 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-06-23 12:51:09 --> Profiler Class Initialized
+INFO - 2021-06-23 12:51:09 --> Helper loaded: text_helper
+INFO - 2021-06-23 12:51:09 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:09 --> Total execution time: 0.0879
+INFO - 2021-06-23 12:51:10 --> Config Class Initialized
+INFO - 2021-06-23 12:51:10 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:10 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:10 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:10 --> URI Class Initialized
+INFO - 2021-06-23 12:51:10 --> Router Class Initialized
+INFO - 2021-06-23 12:51:10 --> Output Class Initialized
+INFO - 2021-06-23 12:51:10 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:10 --> Input Class Initialized
+INFO - 2021-06-23 12:51:10 --> Language Class Initialized
+INFO - 2021-06-23 12:51:10 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:10 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:10 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:10 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:10 --> Helper loaded: url_helper
+INFO - 2021-06-23 12:51:10 --> File loaded: /var/www/html/light1/application/views/edit_donor.php
+INFO - 2021-06-23 12:51:10 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:10 --> Total execution time: 0.0026
+INFO - 2021-06-23 12:51:12 --> Config Class Initialized
+INFO - 2021-06-23 12:51:12 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:12 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:12 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:12 --> URI Class Initialized
+INFO - 2021-06-23 12:51:12 --> Router Class Initialized
+INFO - 2021-06-23 12:51:12 --> Output Class Initialized
+INFO - 2021-06-23 12:51:12 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:12 --> Input Class Initialized
+INFO - 2021-06-23 12:51:12 --> Language Class Initialized
+INFO - 2021-06-23 12:51:12 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:12 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:12 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:12 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:12 --> Total execution time: 0.0325
+INFO - 2021-06-23 12:51:12 --> Config Class Initialized
+INFO - 2021-06-23 12:51:12 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:12 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:12 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:12 --> URI Class Initialized
+INFO - 2021-06-23 12:51:12 --> Router Class Initialized
+INFO - 2021-06-23 12:51:12 --> Output Class Initialized
+INFO - 2021-06-23 12:51:12 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:12 --> Input Class Initialized
+INFO - 2021-06-23 12:51:12 --> Language Class Initialized
+INFO - 2021-06-23 12:51:12 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:12 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:12 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:12 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:12 --> Helper loaded: url_helper
+INFO - 2021-06-23 12:51:12 --> File loaded: /var/www/html/light1/application/views/edit_donor.php
+INFO - 2021-06-23 12:51:12 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:12 --> Total execution time: 0.0025
+INFO - 2021-06-23 12:51:14 --> Config Class Initialized
+INFO - 2021-06-23 12:51:14 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:14 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:14 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:14 --> URI Class Initialized
+INFO - 2021-06-23 12:51:14 --> Router Class Initialized
+INFO - 2021-06-23 12:51:14 --> Output Class Initialized
+INFO - 2021-06-23 12:51:14 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:14 --> Input Class Initialized
+INFO - 2021-06-23 12:51:14 --> Language Class Initialized
+INFO - 2021-06-23 12:51:14 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:14 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:14 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:14 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:14 --> Language file loaded: language/english/profiler_lang.php
+INFO - 2021-06-23 12:51:14 --> Profiler Class Initialized
+INFO - 2021-06-23 12:51:14 --> Helper loaded: text_helper
+INFO - 2021-06-23 12:51:14 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:14 --> Total execution time: 0.0646
+INFO - 2021-06-23 12:51:15 --> Config Class Initialized
+INFO - 2021-06-23 12:51:15 --> Hooks Class Initialized
+DEBUG - 2021-06-23 12:51:15 --> UTF-8 Support Enabled
+INFO - 2021-06-23 12:51:15 --> Utf8 Class Initialized
+INFO - 2021-06-23 12:51:15 --> URI Class Initialized
+INFO - 2021-06-23 12:51:15 --> Router Class Initialized
+INFO - 2021-06-23 12:51:15 --> Output Class Initialized
+INFO - 2021-06-23 12:51:15 --> Security Class Initialized
+DEBUG - 2021-06-23 12:51:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2021-06-23 12:51:15 --> Input Class Initialized
+INFO - 2021-06-23 12:51:15 --> Language Class Initialized
+INFO - 2021-06-23 12:51:15 --> Loader Class Initialized
+INFO - 2021-06-23 12:51:15 --> Controller Class Initialized
+DEBUG - 2021-06-23 12:51:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2021-06-23 12:51:15 --> Session: Class initialized using 'files' driver.
+INFO - 2021-06-23 12:51:15 --> Database Driver Class Initialized
+INFO - 2021-06-23 12:51:15 --> Helper loaded: url_helper
+INFO - 2021-06-23 12:51:15 --> File loaded: /var/www/html/light1/application/views/edit_donor.php
+INFO - 2021-06-23 12:51:15 --> Final output sent to browser
+DEBUG - 2021-06-23 12:51:15 --> Total execution time: 0.0276
