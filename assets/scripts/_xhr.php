@@ -10,7 +10,7 @@ if($show == 'eduforum_select'){
 
 // Search Suggest
 if($show == 'search_suggest'){ ?>
-<img style="cursor:pointer;position: fixed;margin-left: 465px;margin-top: -5px;" onclick="$('#searchSuggest').html('');$('#searchSuggest').css('display','none');" src="http://192.168.2.101/demo/assets/images/close_button.png">
+<img style="cursor:pointer;position: fixed;margin-left: 465px;margin-top: -5px;" onclick="$('#searchSuggest').html('');$('#searchSuggest').css('display','none');" src="http://192.168.0.12/demo/assets/images/close_button.png">
 <table class="table table-bordered table-hover dataTable table-condensed" style="background: #fff">
 	<tbody><tr>
 		<th style="width: 10px">ID</th>
